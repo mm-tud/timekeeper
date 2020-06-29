@@ -1,3 +1,9 @@
+df.pickle  # dataframe storing the time records
+
+#==========================
+# github boilerplate below
+#==========================
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
