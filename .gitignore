@@ -1,5 +1,3 @@
-df.pickle  # dataframe storing the time records
-
 #==========================
 # github boilerplate below
 #==========================
@@ -133,3 +131,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+###
+# dataframe storing the time records
+df.pickle
